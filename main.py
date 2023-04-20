@@ -33,3 +33,4 @@ while len(correct_guesses) < 50:
             pen.goto(chosen_state_xy)
             pen.write(answer_state)
 
+#siemano
